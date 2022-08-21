@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sudarshankgupta/Sudarshankgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A highly motivated, committed, and result-oriented individual seeking a career to enhance my skills and strengths in conjunction with the company's goals and objectives. Always ready to learn and excel in new opportunities that come my way. 
+
+Skilled in SQL, SAS, Data analysis, Business & Campaign Strategy, and eager to explore the world of Analytics and Data Science. Previously worked at Axis Bank as Business Analyst and EXL Analytics as a consultant for a top US Bank in the Credit Cards space. Graduated with honors in Mechanical Engineering from the Indian Institute of Technology IIT (BHU), Varanasi in 2017. 
+
+Currently pursuing MS in Business Analytics and Data Science from Oklahoma State University.
+ 
+For contact please drop a mail at sudarshan.gupta@okstate.edu
